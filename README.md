@@ -1,21 +1,56 @@
 
 # Desafios Python 🐍
 
-Alguns desafios simples de Python que desenvolvi para praticar lógica de programação e fundamentos da linguagem.
+Alguns desafios simples em Python que desenvolvi para praticar lógica de programação e fundamentos da linguagem.
 
-## Desafios
+![Banner do projeto](banner.png)
 
-- Adivinhador de Número
-- Calculadora
-- Conversor de Temperatura
-- Gerador de Senha
+---
+
+## Desafios disponíveis
+
+- 🔢 Adivinhador de Número  
+- ➗ Calculadora  
+- 🌡️ Conversor de Temperatura  
+- 🔐 Gerador de Senha  
+
+---
 
 ## Como executar
 
-Clone o repositório e execute os arquivos individualmente com Python 3:
+Clone o repositório:
+
+```bash
+git clone https://github.com/heenriquefonseca/desafios-python.git
+```
+
+Entre na pasta:
+
+```bash
+cd desafios-python
+```
+
+Execute qualquer arquivo com:
 
 ```bash
 python nome_do_arquivo.py
 ```
 
-![Banner do projeto](banner.png)
+---
+
+## Tecnologias usadas
+
+- Python 3.x
+- Biblioteca `random`
+- Biblioteca `string`
+
+---
+
+## Status do projeto
+🚧 Em desenvolvimento e prática constante...
+
+---
+
+## Contato
+
+Feito com 💙 por [Henrique Fonseca](https://github.com/heenriquefonseca)
