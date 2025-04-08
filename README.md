@@ -18,6 +18,4 @@ Clone o repositório e execute os arquivos individualmente com Python 3:
 python nome_do_arquivo.py
 ```
 
-## Banner
-
 ![Banner do projeto](banner.png)
