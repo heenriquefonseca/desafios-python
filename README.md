@@ -45,6 +45,7 @@ python nome_do_arquivo.py
 - Python 3.x
 - Biblioteca `random`
 - Biblioteca `string`
+- Biblioteca `os`
 
 ---
 
