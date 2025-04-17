@@ -57,5 +57,4 @@ python nome_do_arquivo.py
 ## Contato
 
 Feito com 💙 por [Henrique Fonseca](https://github.com/heenriquefonseca)  
-[LinkedIn](https://www.linkedin.com/in/heenriquefonseca/)
-
+[LinkedIn](https://www.linkedin.com/in/heenrique-fonseca/)
