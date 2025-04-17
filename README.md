@@ -14,6 +14,7 @@ Alguns desafios simples em Python que desenvolvi para praticar lógica de progra
 - 🌡️ Conversor de Temperatura  
 - 🔐 Gerador de Senha Aleatória 
 - 🔮 Jogo da Letra Secreta
+- 📝 Lista de Compras
 
 ---
 
