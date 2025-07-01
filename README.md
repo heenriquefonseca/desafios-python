@@ -15,6 +15,7 @@ Alguns desafios simples em Python que desenvolvi para praticar lógica de progra
 - 🔐 Gerador de Senha Aleatória 
 - 🔮 Jogo da Letra Secreta
 - 📝 Lista de Compras
+- 🔢 Validador de CPF
 
 ---
 
