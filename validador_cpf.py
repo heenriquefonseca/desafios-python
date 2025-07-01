@@ -1,5 +1,5 @@
 print('Digite seu cpf para verificar se ele é válido.')
-cpf = input('Digite seu cpf sem pontuação: ')
+cpf = input('Digite seu cpf sem pontuação: ').replace('.', '').replace( '-', '')
 
 # Verificando o primeiro dígito
 nove_digitos = cpf[:9]
